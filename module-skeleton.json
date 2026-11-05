@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-localization-dart-desktop",
+  "capabilityKey": "planned:ecommerce:localization",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_localization_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/localization.md",
+  "presentationPlan": "projects/ecommerce/features/localization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
